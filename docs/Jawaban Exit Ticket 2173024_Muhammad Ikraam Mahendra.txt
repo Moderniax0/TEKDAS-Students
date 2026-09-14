@@ -1,0 +1,7 @@
+2173024
+Muhammad Ikraam Mahendra
+
+1. lapisan yang paling saya pahami adalah lapisan data dan BI
+2. lapisan yang masih saya campuradukan adalah lapisan machine learning
+3. Sistem layak disebut cerdas dan bertanggung jawab saat sistem berhasil mengolah data dengan baik dan akurat serta memberikan 
+bantuan untuk manusia untuk memahami dan mengambil keputusan berdasarkan data tersebut.
